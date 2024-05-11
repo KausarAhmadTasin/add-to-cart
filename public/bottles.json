@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Glass Bottle",
+    "bottle_img": "glass_bottle.jpg",
+    "description": "This is a transparent glass bottle suitable for storing liquids."
+  },
+  {
+    "id": 2,
+    "name": "Plastic Bottle",
+    "bottle_img": "plastic_bottle.jpg",
+    "description": "A lightweight plastic bottle, ideal for carrying water or beverages."
+  },
+  {
+    "id": 3,
+    "name": "Stainless Steel Bottle",
+    "bottle_img": "stainless_steel_bottle.jpg",
+    "description": "A durable stainless steel bottle, perfect for keeping drinks hot or cold."
+  },
+  {
+    "id": 4,
+    "name": "Aluminum Bottle",
+    "bottle_img": "aluminum_bottle.jpg",
+    "description": "An eco-friendly aluminum bottle, great for outdoor activities."
+  },
+  {
+    "id": 5,
+    "name": "Ceramic Bottle",
+    "bottle_img": "ceramic_bottle.jpg",
+    "description": "A stylish ceramic bottle, suitable for both decoration and practical use."
+  },
+  {
+    "id": 6,
+    "name": "Vacuum Insulated Bottle",
+    "bottle_img": "vacuum_insulated_bottle.jpg",
+    "description": "A vacuum-insulated bottle, designed to maintain the temperature of your drinks for hours."
+  },
+  {
+    "id": 7,
+    "name": "Sports Bottle",
+    "bottle_img": "sports_bottle.jpg",
+    "description": "A specially designed sports bottle, featuring a convenient sipper for easy hydration during workouts."
+  },
+  {
+    "id": 8,
+    "name": "Infuser Bottle",
+    "bottle_img": "infuser_bottle.jpg",
+    "description": "An infuser bottle, allowing you to add fruits or herbs to your water for infused flavors."
+  }
+]
